@@ -1,0 +1,44 @@
+﻿Participant ID,SameColor_Corresponding_RT,SameColor_NonCorresponding_RT,AlternateColor_Corresponding_RT,AlternateColor_NonCorresponding_RT,SameColor_SimonEffect_Diff,AlternateColor_SimonEffect_Diff,N_Included_Trials,V9,Participant,SameColor_Diff,AlternateColor_Diff
+P1,536.3809283,583.4611649,794.1989744,740.2143775,47.08023664,-53.98459688,158,,P1,47.08023664,-53.98459688
+P2,728.0819821,718.4244833,1064.859365,958.6732971,-9.657498716,-106.1860676,144,,P2,-9.657498716,-106.1860676
+P3,624.9040565,622.2767324,777.3663052,674.9429409,-2.627324062,-102.4233643,157,,P3,-2.627324062,-102.4233643
+P4,753.3117789,776.8908143,933.4518811,881.3199914,23.57903534,-52.13188965,145,,P4,23.57903534,-52.13188965
+P5,607.3728231,567.1455975,713.0010516,649.5027263,-40.22722557,-63.4983253,148,,P5,-40.22722557,-63.4983253
+P6,605.66486,590.55957,893.0397342,820.474095,-15.10529,-72.56563921,158,,P6,-15.10529,-72.56563921
+P7,444.0629,481.4454921,796.48325,641.28849,37.38259212,-155.19476,156,,P7,37.38259212,-155.19476
+P8,558.0719175,580.09085,902.5942694,873.1369405,22.0189325,-29.45732891,149,,P8,22.0189325,-29.45732891
+,,,,,,,,,,,
+"This sheet is the one to import into JASP for paired-samples t-tests (H1: SameColor_Corresponding_RT vs SameColor_NonCorresponding_RT; H2: AlternateColor_Corresponding_RT vs AlternateColor_NonCorresponding_RT) and for the repeated-measures ANOVA (H3), using the four RT columns as the within-subject conditions.",,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,"Figure 2 Simon effect difference scores (non-corresponding minus corresponding RT, ms) for each of the 8 participants, by mapping condition. Positive values indicate a Simon-congruency effect in the predicted direction; negative values indicate a reversed effect.",,
